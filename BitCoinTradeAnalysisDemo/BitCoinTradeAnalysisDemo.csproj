@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.SfChart.WPF" Version="23.1.43" />
+    <PackageReference Include="Syncfusion.SfChart.WPF" Version="*" />
   </ItemGroup>
 
 </Project>
