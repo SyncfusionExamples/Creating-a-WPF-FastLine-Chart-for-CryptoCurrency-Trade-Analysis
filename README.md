@@ -21,4 +21,4 @@ The fill colors of FastLine series can be customized using [Interior](https://he
 ## Adding Annotations
 SfChart supports annotations, which enable you to mark specific areas of interest within the chart. In this example, we have added [text annotations](https://help.syncfusion.com/wpf/charts/annotations#text-annotation) to highlight specific context in the chart area.
 
-For a step-by-step procedure, refer to the [FastLine Chart CryptoCurrency Trade Analysis blog]().
+For a step-by-step procedure, refer to the [FastLine Chart CryptoCurrency Trade Analysis blog](https://www.syncfusion.com/blogs/post/wpf-fast-line-chart-crypto-trade.aspx).
